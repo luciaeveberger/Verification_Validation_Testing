@@ -1,0 +1,2 @@
+SettingName,Locale,GroupingSymbol,SeparatingSymbol,DateFormat,FilePath,LongVersion,Year,Month,CompanyCodes,CombinationInputs
+Test1,en,COMMA,POINT,dd-MM-yyyy,D:\test1.csv,true,,,1234;2222;8888,99|27|testname1|IFRS16_RIGHT_OF_USE_LAND_RESIDENTIALS||12-03-2016|23-07-2017|23-07-2017|7.6||||||||||;79|273|testname2|IFRS16_RIGHT_OF_USE_LAND_OFFICES||12-06-2016|23-07-2017|23-08-2017|5.4||||||||||
